@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^13.5.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.7.0",
+    "cypress-real-events": "^1.11.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "marge": "^1.0.1"
+  }
+}
